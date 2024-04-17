@@ -38,4 +38,4 @@ pip install -r requirements.txt
 python main.py
 ```
   
-*Космос в вашем сердце!*
+*Космос в ваших руках!*
